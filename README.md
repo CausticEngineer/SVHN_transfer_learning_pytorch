@@ -7,18 +7,24 @@
 
 ## Learning curves
 
-Train
---to do--
+Train loss
+![train loss](/img/train_loss.jpg "Train loss")
 
-Val
---to do--
+Validation loss
+![validation loss](/img/val_loss.jpg "Val loss")
+
+Train accuracy
+![train acc](/img/train_acc.jpg "Train acc")
+
+Validation accuracy
+![validation acc](/img/val_acc.jpg "Val acc")
 
 ## Test accuracy
 
---to do--
+Test loss = 0.218, Test accuracy = 0.937
 
 ## Ways to improvements
 
-1) Another architecture
-2) Right augmentation
+1) Right augmentations (high priority). Try to provide grid search on diff types/levels augmentations.
+2) Another architecture
 3) Hyperparameters tuning
